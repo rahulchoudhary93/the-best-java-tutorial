@@ -2,14 +2,17 @@ package fundamentals;
 
 public class L1Variable {
 	
-	// Variables can have letter, number, $ or _ by rule, but only letter and number by convention
-	// variable name should start with only letter as per convention(letter or number as per rule
-	// By convention the naming should follow camel case
+	/* 
+ 	Variables can have letter, number, $ or _ by rule, but only letter and number by convention
+	variable name should start with only letter as per convention(letter or number as per rule
+	By convention the naming should follow camel case
 	
-	// There are 4 primitive data types in Java - Integer, Floating Point, Character and Boolean
-	// The primitive data types are copied by value in Java, i.e., when a variable is assigned.. 
-	//..to another variable, there are two separate copies in memory and only the value of one..
-	//..is assigned to the other
+	There are 4 primitive data types in Java - Integer, Floating Point, Character and Boolean
+	
+	The primitive data types are copied by value in Java, i.e., when a variable is assigned 
+	to another variable, there are two separate copies in memory and only the value of one
+	is assigned to the other
+	*/
 	
 	public static void main(String [] args) {
 		int myVar = 10;      // compile time error if not initialized
