@@ -14,7 +14,7 @@ package fundamentals;
 	
 */
 
-public class OperatorPrecedence {
+public class L3OperatorPrecedence {
 	
 	public static void main(String [] args) {
 		

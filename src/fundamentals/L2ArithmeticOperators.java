@@ -1,6 +1,6 @@
 package fundamentals;
 
-public class ArithmeticOperators {
+public class L2ArithmeticOperators {
 	
 	// There are 3 types of operators in Java - Basic, Prefix/PostFix, Compound Assignment
 	

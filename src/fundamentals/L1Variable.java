@@ -1,6 +1,6 @@
 package fundamentals;
 
-public class Variable {
+public class L1Variable {
 	
 	// Variables can have letter, number, $ or _ by rule, but only letter and number by convention
 	// variable name should start with only letter as per convention(letter or number as per rule

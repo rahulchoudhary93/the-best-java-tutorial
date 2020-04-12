@@ -1,6 +1,6 @@
 package fundamentals;
 
-public class TypeCast {
+public class L4TypeCast {
 	/*
 	  2 types of Type Casting - Implicit(automatic) and Explicit(using type cast operator)
 	  
